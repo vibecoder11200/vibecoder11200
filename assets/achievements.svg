@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="40" role="img" aria-label="Achievements: Pull Shark, Pair Extraordinaire, YOLO">
+  <title>🏆 Pull Shark · Pair Extraordinaire · YOLO</title>
+  <rect width="400" height="40" rx="6" fill="#141321"/>
+  <line x1="118" y1="8" x2="118" y2="32" stroke="#FE4287" stroke-opacity="0.3"/>
+  <line x1="302" y1="8" x2="302" y2="32" stroke="#FE4287" stroke-opacity="0.3"/>
+  <text x="59" y="25" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="600" fill="#A9FEF2">🏆 Pull Shark</text>
+  <text x="210" y="25" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="600" fill="#A9FEF2">🏆 Pair Extraordinaire</text>
+  <text x="351" y="25" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="600" fill="#A9FEF2">🏆 YOLO</text>
+  <rect x="0.5" y="0.5" width="399" height="39" rx="5.5" fill="none" stroke="#FE4287" stroke-opacity="0.45"/>
+</svg>
